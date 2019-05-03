@@ -1,5 +1,6 @@
 # Swoole-Decoder
 还原Swoole处理后的php代码
+*  Swoole loader 版本**1.9.0**
 
 ## 对于各类授权，mac处理
 前面是授权，地址，最后是时间戳，这里是5b947c5a
